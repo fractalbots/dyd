@@ -1,0 +1,5 @@
+# Copia este archivo como local.properties (no se sube a git) y pon tus datos de Supabase.
+# Supabase > Project Settings > API
+SUPABASE_URL=https://TU-PROYECTO.supabase.co
+SUPABASE_ANON_KEY=pega-aqui-la-clave-anon-public
+# Nunca pongas aquí la clave service_role.
